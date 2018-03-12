@@ -7,6 +7,11 @@ if (!defined('ABSPATH'))
 
 <div class="wrap">
 
+    <h2>Shortcode</h2>
+    <p>
+        Use o shortcode <b>[sma_mostrar_eventos]</b> na página ou post que deseja visualizar a lista de eventos.
+    </p>
+    <hr>
     <h2>Configure a exibição dos eventos</h2>
     <form method="post" action="<?php echo esc_url(admin_url('options.php')); ?>" enctype="multipart/form-data">
         <?php settings_fields('sma_register_fields_group'); ?>
