@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Eventos SMA
-  Plugin URI: https://github.com/jcarvalho89/EventosSMA
+  Plugin URI: https://github.com/jcarvalho89/plugin-de-eventos
   Description: Plugin para eventos
   Version: 1.0.0
   Author: Josiano Carvalho

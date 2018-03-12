@@ -2,7 +2,7 @@
 Plugin básico WordPress para exibição de eventos futuros ordenados por data e hora
 
 # Instalação:
-Baixe o aquivo .zip e realize o upload através da página de plugins.
+Baixe o arquivo .zip e realize o upload através da página de plugins.
 
 
 # Como usar:
