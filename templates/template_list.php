@@ -23,7 +23,7 @@ $args = array(
             'key' => 'data_hora_evento',
             'compare' => '>=',
             'value' => $hoje->format('Y-m-d H:i'),
-            'type' => 'DATE'
+            'type' => 'DATETIME'
         ),
         'hora_evento_field' => array(
             'key' => 'hora_evento',
